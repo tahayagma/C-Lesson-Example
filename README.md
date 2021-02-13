@@ -1,3 +1,3 @@
 # C-Lesson-Example
 
-algoritma ve programlama derslerinde c ile yapılan alıştırmalar
+algoritma ve programlama derslerinde C dili ile yapılan alıştırmalar
